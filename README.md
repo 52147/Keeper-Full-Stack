@@ -5,7 +5,7 @@ Welcome to your new dkeeper project and to the internet computer development com
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
 To learn more before you start working with dkeeper, see the following documentation available online:
-- [Develope the backend for dkeeper](https://github.com/52147/Keeper-Full-Stack/blob/main/dkeeper-Backend)
+- [Develope the backend for dkeeper](https://github.com/52147/Keeper-Full-Stack/blob/main/dkeeper-Backend.md)
 
 - [Quick Start](https://internetcomputer.org/docs/current/developer-docs/quickstart/hello10mins)
 - [SDK Developer Tools](https://internetcomputer.org/docs/current/developer-docs/build/install-upgrade-remove)
